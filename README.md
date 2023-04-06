@@ -18,21 +18,6 @@
 
 <br>
 <details>
- <summary> <b>👨‍💻 codigo do .env: </b> <i>(ver mais)</i> </summary>
-  <br>
-<div >
-  <b>digite no arquivo .env:</b>
-  <pre><code>
-    EMAIL_HOST_USER=seu_email
-    EMAIL_HOST_PASSWORD=sua_senha
-    EMAIL_USE_TLS=True
-    EMAIL_PORT=587
-    EMAIL_HOST=smtp_do_seu_provedor_de_email
-  </code></pre>
- </div>
-</details>
-
-<details>
  <summary> <b>👨‍💻 venv no Windows: </b> <i>(ver mais)</i> </summary>
   <br>
 <div >
@@ -55,3 +40,30 @@
   </code></pre>
  </div>
 </details>
+
+<details>
+ <summary> <b>👨‍💻 instalar python decouple: </b> <i>(ver mais)</i> </summary>
+  <br>
+<div >
+  <b>- digite no terminal:</b>
+  <pre><code>
+    $ pip install python-decouple
+  </code></pre>
+ </div>
+</details>
+
+<details>
+ <summary> <b>👨‍💻 codigo do .env: </b> <i>(ver mais)</i> </summary>
+  <br>
+<div >
+  <b>digite no arquivo .env:</b>
+  <pre><code>
+    EMAIL_HOST_USER=seu_email
+    EMAIL_HOST_PASSWORD=sua_senha
+    EMAIL_USE_TLS=True
+    EMAIL_PORT=587
+    EMAIL_HOST=smtp_do_seu_provedor_de_email
+  </code></pre>
+ </div>
+</details>
+- Para entrar em contato, me mande um <a href="mailto:devglaubermonteiro@gmail.com">Email</a>.
